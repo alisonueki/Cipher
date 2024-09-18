@@ -28,7 +28,7 @@ This project implements the Hill Cipher, a classical encryption technique using 
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/alisonueki/Cipher>
+   git clone https://github.com/alisonueki/Cipher
    cd <project_directory>
    ```
 
