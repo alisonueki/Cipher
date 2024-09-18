@@ -9,8 +9,7 @@ This project implements the Hill Cipher, a classical encryption technique using 
 2. [Prerequisites](#prerequisites)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [File Structure](#file-structure)
-6. [References](#references)
+5. [References](#references)
 
 ## Features
 
@@ -72,19 +71,6 @@ This project implements the Hill Cipher, a classical encryption technique using 
 You can also run the encryption/decryption process directly from the command line:
 1. For encryption, run the C++ program and select option `1`, then input the message.
 2. For decryption, select option `2` and provide the encrypted message.
-
-## File Structure
-
-```
-.
-├── client.js        # Handles front-end encryption and decryption interactions.
-├── hill_cipher.cpp  # C++ source code implementing Hill Cipher encryption and decryption.
-├── server.js        # Express server handling API requests for encryption/decryption.
-├── public
-│   ├── index.html   # HTML form for user inputs.
-│   └── styles.css   # Basic styling for the web page.
-└── README.md        # Project documentation (this file).
-```
 
 ## References
 
